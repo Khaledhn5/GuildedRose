@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-23T20:13:27" hostname="LAPTOP-1NHH8RDO" time="0.12">
+  <properties/>
+  <testcase name="Test that the quality can't be more than 50" classname="com.gildedrose.GildedRoseTest" time="0.077"/>
+  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.004"/>
+  <testcase name="Test that the quality is augmented" classname="com.gildedrose.GildedRoseTest" time="0.005"/>
+  <testcase name="Test that the quality is changed" classname="com.gildedrose.GildedRoseTest" time="0.005"/>
+  <testcase name="Test that the quality is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.003"/>
+  <testcase name="Test that the quality can't be more than 50" classname="com.gildedrose.GildedRoseTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
